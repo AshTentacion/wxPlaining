@@ -1,6 +1,10 @@
 # wxPlaining
 微信小程序 mpvue+vant-weapp+echarts
 
+#项目截图
+![首页](https://github.com/AshTentacion/wxPlaining/blob/main/pic1.PNG)
+![详情页](https://github.com/AshTentacion/wxPlaining/blob/main/pic2.PNG)
+
 安装依赖
 yarn 或者 npm install
 
