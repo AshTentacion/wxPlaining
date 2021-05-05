@@ -1,0 +1,16 @@
+{
+    "navigationBarTitleText": "智能草莓",
+    "usingComponents": {
+        "van-button": "./../../../../static/vant-weapp/button/index",
+        "van-icon": "./../../../../static/vant-weapp/icon/index",
+        "van-field": "./../../../../static/vant-weapp/field/index",
+        "van-popup": "./../../../../static/vant-weapp/popup/index",
+        "van-loading": "./../../../../static/vant-weapp/loading/index",
+        "van-toast": "./../../../../static/vant-weapp/toast/index",
+        "van-tab": "./../../../../static/vant-weapp/tab/index",
+        "van-tabs": "./../../../../static/vant-weapp/tabs/index",
+        "van-datetime-picker": "./../../../../static/vant-weapp/datetime-picker/index",
+        "van-cell": "./../../../../static/vant-weapp/cell/index",
+        "van-cell-group": "./../../../../static/vant-weapp/cell-group/index"
+    }
+}
